@@ -1,0 +1,15 @@
+# Data (regenerated at runtime; ephemeral on Streamlit Cloud)
+stock_data.json
+stock_images/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS / editor
+.DS_Store
